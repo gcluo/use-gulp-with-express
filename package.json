@@ -1,0 +1,30 @@
+{
+  "name": "express gulp demo",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "~1.12.4",
+    "cookie-parser": "~1.3.5",
+    "debug": "~2.2.0",
+    "ejs": "~2.3.1",
+    "express": "~4.12.4",
+    "morgan": "~1.5.3",
+    "serve-favicon": "~2.2.1",
+    "connect-redis": "~2.3.0",
+    "express-session": "~1.11.3",
+    "gulp": "^3.8.6",
+    "gulp-jshint": "^1.11.0",
+    "gulp-sass": "^2.0.1",
+    "gulp-scss-lint": "^0.2.0",
+    "gulp-scss-lint-stylish": "^0.1.3",
+    "jshint-stylish": "^2.0.0",
+    "gulp-autoprefixer": "^2.1.0",
+    "gulp-plumber": "^1.0.0",
+    "gulp-sourcemaps": "^1.5.2",
+    "gulp-size": "^1.2.1",
+    "gulp-load-plugins": "^0.10.0"
+  }
+}

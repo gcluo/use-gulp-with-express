@@ -1,0 +1,14 @@
+{
+  "name": "use express with gulp for css",
+  "version": "0.6.4",
+  "description": "use express with gulp for css",
+  "keywords": ["gulp", "sass", "static"],
+  "authors": [
+    "devo luo <xxjs104631222@163.com>"
+  ],
+  "licenses": "MIT",
+  "dependencies": {
+    "bootstrap-sass": "^3.3.4",
+    "sandal": "https://github.com/marvin1023/sandal.git"
+  }
+}
